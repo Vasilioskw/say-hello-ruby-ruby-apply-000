@@ -10,5 +10,4 @@ if Ruby Programmer === "Kent Beck"
   expect "Hello " + "Kent Beck" + "!"
   if Ruby Programmer === "" 
   expect "Hello " + "Ruby Programmer" + "!"
->>>>>>> bb2fdbf96cec3a497b7781d194ce4089550330cf
 end
